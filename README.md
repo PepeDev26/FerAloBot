@@ -1,5 +1,8 @@
 ---
 description: El bot mas alonsista de Discord
+cover: >-
+  https://images.ecestaticos.com/HcqpYgl0qsocgMHiUfuullBPX8c=/0x0:3840x2160/1338x752/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F18a%2F0e8%2Ff74%2F18a0e8f747d9553980c4e410c51d7236.jpg
+coverY: 0
 ---
 
 # Fernando AlonsBOT
