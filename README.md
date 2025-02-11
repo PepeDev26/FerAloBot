@@ -28,3 +28,5 @@ Necesitas una cuenta de desarrollador de Discord y crear una app, dentro de la a
 ```python
 client.run("INSERT TOKEN HERE") #Token del bot (El Token va entre las comillas)
 ```
+
+Alonso ganara la 33
